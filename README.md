@@ -1,4 +1,5 @@
 #Telco Customer Churn Analysis
+
 This repository contains an exploratory data analysis project on customer churn at Telco telecommunications company. The goal is to understand the factors driving customer churn and provide insights to improve customer retention.
 
 The dataset used to perform the analysis was the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/abdallahwagih/telco-customer-churn) on Kaggle.
